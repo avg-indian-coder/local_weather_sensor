@@ -1,6 +1,6 @@
 Hyperlocal weather sensoring measuring temperature, humidity, rainfall and atmospheric pressure of a location.
 The sensors used are:
-* DHT11 (temperature and pressure)
+* DHT11 (temperature and humidity)
 * HW-028 (rainfall)
 * BMP180 (pressure)
 
